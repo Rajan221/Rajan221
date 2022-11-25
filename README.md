@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ✨ I am also good at Graphics Designing, using the tools such as: Photoshop, Premiere Pro, Illustrator, Figma, etc..
 - 📫 How to reach me: rajansuper221@gmail.com
 - 🔭 I’m currently stydying BSc.CSIT in Asian School of Management and Technology.
-[![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajan221&show_icons=true&bg_color=8aaabb99&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Rajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajan221&show_icons=true&bg_color=113&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
