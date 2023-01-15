@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajan</h1>
-<h3 align="center">A passionate FullStack Developer</h3>
+<h3 align="center">A passionate Developer</h3>
 
 - ✍️ I’m currently Studying **BSc.Csit** in **Asian School of Management and Technology.**
 
