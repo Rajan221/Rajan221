@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajan221&show_icons=true&theme=dark&hide_border=true&locale=en" alt="rajan221" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajan221&theme=dark" alt="rajan221" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=Rajan221&theme=dark" alt="rajan221" /></p>
