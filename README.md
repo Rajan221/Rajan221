@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rajan</h1>
-<h3 align="center">A passionate Developer</h3>
 
 - ✍️ I’m currently Studying **BSc.Csit** in **Asian School of Management and Technology.**
 
-- 🌱 I’m currently learning **Django, React.**
+- 🌱 I’m currently learning **MERN Stack.**
 
-- 👯 I’m looking to collaborate on **Any Frontend Project and Logo Design.**
-
-- ✌ I'm good at **Graphcis Designing** and good in using **Photoshop, Illustrator, Premiere Pro, Figma** 
+- 👯 I’m looking to collaborate on **Any Frontend Project and Graphics Design.** 
 
 - 💬 Ask me about **Frontend, Graphics Design, Js, Python.**
 
