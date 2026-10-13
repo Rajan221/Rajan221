@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajan</h1>
 
-- ✍️ I’m currently Studying **BSc.Csit** in **Asian School of Management and Technology.**
-
 - 🌱 I’m currently learning **MERN Stack.**
 
 - 👯 I’m looking to collaborate on **Any Frontend Project and Graphics Design.** 
